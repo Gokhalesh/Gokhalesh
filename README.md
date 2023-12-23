@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gokhalesh
-- Using Stable Diffusion , Model Training 
+- Stable Diffusion based graphics  , UX , UI , 
 - 👀 I’m interested in Python , Web , UX Design
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Mobile Apps , Browser Plugins
